@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 I'm a software developer working at SAP and living in [Potsdam](https://en.wikipedia.org/wiki/Potsdam).
-[Follow me on mastodon](https://social.tchncs.de/@fwilhe).
+Say 'hi' if you're nearby, I love giving tours of the city.
+
+Social profiles: [Mastodon](https://social.tchncs.de/@fwilhe) [LinkedIn](https://www.linkedin.com/in/fwilhe)
 
 What I'm interested in
 - Infrastructure (as Code)
